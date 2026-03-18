@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カプティヴ",
+  "base_artist": "LEN",
+  "createdAt": "2026-03-18T15:28:16.151826Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カプティヴ",
+      "artist": "Len",
+      "has_synced": false,
+      "path": "select/pl_01_カプティヴ_Len.txt"
+    }
+  ]
+}
